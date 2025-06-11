@@ -32,4 +32,3 @@ jobs:
       - name: Deploy to production server
         run: |
           echo "Deploying to production server..."
-          # Add your deployment commands here, e.g., scp, rsync, etc.
